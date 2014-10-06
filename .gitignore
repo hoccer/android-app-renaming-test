@@ -3,5 +3,7 @@
 
 gen
 out
+proguard_logs
+*.apk
 
 local.properties
