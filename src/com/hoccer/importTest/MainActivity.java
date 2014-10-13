@@ -1,4 +1,4 @@
-package com.artcom.green;
+package com.hoccer.importTest;
 
 import android.app.Activity;
 import android.content.ComponentName;
